@@ -2,7 +2,7 @@
     "firmware": [
         {
             "software"  : "1.0.2",
-            "hardware"  : "1.0.1",
+            "hardware"  : "1.0.0",
             "Date"      : "21.04.2022"
         },
         {
